@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "private": "true",
   "dependencies": {
-    "foundation": "zurb/bower-foundation"
+    "component": "~0.0.1",
+    "font-awesome": "FortAwesome/Font-Awesome#~4.4.0",
+    "foundation": "zurb/bower-foundation",
+    "install": "~1.0.4"
   }
 }
