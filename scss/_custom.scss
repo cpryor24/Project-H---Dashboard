@@ -2,6 +2,10 @@ body {
 	background: $secondary-color;
 }
 
+.button{
+	background: $secondary-color;
+}
+
 .top-bar {
 	height: 60px;
 	padding-top: 8px;
@@ -75,4 +79,8 @@ footer {
 		text-align: center;
 		padding-top: 20px;
 	}
+}
+
+.logout-btn, .add-btn{
+	margin-right: 20px;
 }
